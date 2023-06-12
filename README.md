@@ -19,13 +19,13 @@ To complete the assignment, please do the following:
 Goal : I'd like to get good choices to decide what exercise I should do for weight loss.
 
 # List of Hobby
-1. Walking
-2. Jogging
-3. Running
-4. Doing push-ups (腕立て伏せ)
-5. Doing sit-ups (腹筋運動)
-6. Doing squats (スクワット)
-7. Swimming
-8. Doing ab rollers (腹筋ローラー)
-9. Ring Fit Adventure (リングフィットアドベンチャー)
-10. Refraining from eating
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
