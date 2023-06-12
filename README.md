@@ -18,7 +18,7 @@ To complete the assignment, please do the following:
 # My Project (What is the best exercise for weight loss ?)
 Goal : I'd like to get good choices to decide what exercise I should do for weight loss.
 
-# List of Hobby
+# List of excercise
 1.
 2.
 3.
