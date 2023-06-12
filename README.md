@@ -15,9 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# My Project (What is the best exercise for weight loss ?)
+Goal : I'd like to get good choices to decide what exercise I should do for weigth loss.
 
 # List of Hobby
+1. Walking
+2. Jogging
+3. Running
+4. Doing push-ups (腕立て伏せ)
+5. Doing sit-ups (腹筋運動)
+6. Doing squats (スクワット)
+7. Swimming
+8. Doing ab rollers (腹筋ローラー)
+9. Ring Fit Adventure (リングフィットアドベンチャー)
+10. Refraining from eating
