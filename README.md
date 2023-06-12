@@ -18,6 +18,7 @@ To complete the assignment, please do the following:
 # My Project (What is the best exercise for weight loss ?)
 Goal : I'd like to get good choices to decide what exercise I should do for weight loss.
 
+
 # List of Hobby
 1. Walking +1
 2. Jogging
@@ -29,3 +30,4 @@ Goal : I'd like to get good choices to decide what exercise I should do for weig
 8. Doing ab rollers (腹筋ローラー)
 9. Ring Fit Adventure (リングフィットアドベンチャー)
 10. Refraining from eating
+
