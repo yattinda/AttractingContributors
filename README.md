@@ -16,7 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (What is the best exercise for weight loss ?)
-Goal : I'd like to get good choices to decide what exercise I should do for weigth loss.
+Goal : I'd like to get good choices to decide what exercise I should do for weight loss.
 
 # List of Hobby
 1. Walking
