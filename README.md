@@ -5,7 +5,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 どの課題が一番簡単ですか?
 
 # Easy assignment list
-- 
+- Research Writing
 - 
 - 
 - 
