@@ -9,3 +9,4 @@ By the way, personally, I want to go to Norway or Sweden and see the aura.
 
 ## Please write down here
 1. China
+２. America
