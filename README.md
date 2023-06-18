@@ -16,7 +16,7 @@ By the way, personally, I want to go to Norway or Sweden and see the aura.
 4. Taiwan
 5. Indonesia
 6. Austria
-7. 
+7. England
 8. 
 9. 
 10. 
