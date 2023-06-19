@@ -17,6 +17,7 @@ By the way, personally, I want to go to Norway or Sweden and see the aura.
 5. Indonesia
 6. Austria
 7. Italy
-8. 
-9. 
-10. 
+7. Barcelona
+8. France
+9. Egypt
+10. Italy
