@@ -16,3 +16,4 @@ Please write the name of the console you use the most!
 - Gaming PC
 - Nintendo Game Cube
 - Gamihg PC
+- Google Pixel 6a
