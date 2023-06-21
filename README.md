@@ -19,3 +19,4 @@ Please write the name of the console you use the most!
 - Gaming PC
 - Smartphone
 - Google Pixel 6a
+- Nintendo DS Lite
