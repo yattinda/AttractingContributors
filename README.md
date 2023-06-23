@@ -23,4 +23,7 @@ By the way, personally, I want to go to Norway or Sweden and see the aura.
 11. England
 12. Sweden
 13. Canada
-14. Australia
+14. Switzerland
+15. Uzbekistan
+16. Australia
+
