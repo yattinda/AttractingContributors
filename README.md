@@ -7,7 +7,7 @@ Because, It is lucky seven !
 2. 3
 
 # List of Number
-1. a  
+1. 256  
 2. a   
 3. a   
 4. a   
