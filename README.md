@@ -2,6 +2,10 @@
 I like 7 !  
 Because, It is lucky seven !  
 
+# Sample  
+1. 8  
+2. 3
+
 # List of Number
 1. a  
 2. a   
