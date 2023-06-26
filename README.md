@@ -23,4 +23,4 @@ Goal : I'd like to get good choices to decide what exercise I should do for weig
 1. Walking
 2. Walking
 3. Weight training
-
+4. Weight training
