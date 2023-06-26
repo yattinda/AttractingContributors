@@ -6,14 +6,11 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # Easy assignment list
 - Research Writing
+- Materials Informatics A
 - ProCom(But very tedious)
 - 人間情報処理
 - Special Lecture in Information Science
 - Research presentation
-- 
-- 
-- 
-- 
 - 
 - 
 - 
