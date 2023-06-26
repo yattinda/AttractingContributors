@@ -12,6 +12,6 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 - 人間情報処理
 - Special Lecture in Information Science
 - Research presentation
-- 
+- sequential data modeling
 - 
 - 
