@@ -11,3 +11,4 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 7.Mac and Windows  
 8.Mac  
 9.Windows
+10.ubuntu
