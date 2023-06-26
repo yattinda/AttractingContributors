@@ -13,5 +13,5 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 - Special Lecture in Information Science
 - Research presentation
 - sequential data modeling
-- 
+- Natural Language Processing
 - 
