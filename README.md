@@ -3,7 +3,7 @@ I like 7 !
 Because, It is lucky seven !  
 
 # List of Number
-1. a  
+1. 256  
 2. a   
 3. a   
 4. a   
