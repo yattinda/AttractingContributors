@@ -6,6 +6,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # Easy assignment list
 - Research Writing
+- Special Lecture in Information Science
 - Research presentation
 - 
 - 
