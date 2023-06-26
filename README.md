@@ -21,5 +21,6 @@ Goal : I'd like to get good choices to decide what exercise I should do for weig
 
 # List of Hobby
 1. Walking
-2. Weight training
+2. Walking
+3. Weight training
 
