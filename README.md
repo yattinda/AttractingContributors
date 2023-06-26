@@ -22,4 +22,4 @@ Please write the name of the console you use the most!
 - Nintendo DS Lite
 - MetaQuest2
 - Switch
-
+- Gaming PC
